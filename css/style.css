@@ -1,0 +1,168 @@
+
+
+
+body{
+    
+}
+
+
+.mydiv{
+   
+    
+}
+
+.mycontainer{
+
+
+}
+
+.mynav{
+
+}
+
+.navbar-brand{
+    
+font-weight: 700;
+font-size: 40px;
+
+}
+
+.mylink{
+    font-size: 18px;
+    font-family: var(--font-cs-medium);
+    font-weight: 500;
+    line-height: 1.4;
+    margin-left: 50px;
+    padding: 20px;
+}
+
+.mybtn{
+  
+    padding: 13px 32px;
+    border-radius: 50px;
+font-size: 18px;
+font-family: var(--font-cs-bold);
+font-weight: 900;
+line-height: 1.4;
+border: 2px solid var(--color-primary);
+text-decoration: none;
+margin-right: 70px;
+color: white;
+
+}
+
+.myschrift{
+    font-size: 80px;
+line-height: 1.12;
+letter-spacing: -2px;
+margin-bottom: 40px;
+font-family: var(--font-cs-bold);
+font-weight: 700;
+margin-left: 30px;
+
+}
+
+.mypara{
+    font-size: 17px;
+    margin-left: 30px;
+     
+}
+.mybtn2{
+    padding: 13px 32px;
+    border-radius: 50px;
+font-size: 18px;
+font-family: var(--font-cs-bold);
+font-weight: 700;
+line-height: 1.4;
+border: 2px solid var(--color-primary);
+text-decoration: none;
+margin-right: 70px;
+color: white;
+margin-left: 30px;
+
+
+}
+
+.mybtn3{
+    font-size: 15px;
+    line-height: 1.8;
+   margin-right: 40px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+
+.myschreiben{
+    font-size: 42px;
+    letter-spacing: -2px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    font-family: var(--font-cs-bold);
+font-weight: 700;
+
+
+}
+.myparagraf{
+    font-family: var(--font-cs-book);
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 1.8;
+    color: gray;
+}
+
+.myimg{
+    margin-left: 200px;
+    border-radius: 7px;
+    max-width: 100%;
+}
+
+.myh4{
+    
+    font-size: 18px;
+font-family: var(--font-cs-medium);
+line-height: 1.4;
+margin-bottom: 15px;
+margin-left: 100px;
+font-weight:700 ;
+color: #3377FF;
+}
+
+.myh2{
+    font-size: 42px;
+    letter-spacing: -2px;
+    line-height: 1.2;
+    font-family: var(--font-cs-bold);
+    font-weight: 700; 
+    margin-left: 100px; 
+} 
+
+.paragraf{
+    margin-bottom: 15px;
+    color: gray;
+    font-family: var(--font-cs-book);
+font-weight: normal;
+font-size: 17px;
+line-height: 1.8;
+margin: 0px; 
+padding-left: 100px;
+}
+
+.mybutton{
+    border-radius: 50px;
+    border: 2px solid var(--color-primary);
+    padding: 15px 40px;
+    font-size: 18px;
+    font-family: var(--font-cs-bold);
+    font-weight: 700;
+    line-height: 1.4;
+    margin-left: 90px;
+    text-decoration: none;
+    background-color: white;
+border-color: rgba(71, 59, 240, 0.1);
+color: var(--color-heading);
+display: inline-block;
+overflow: hidden;
+transition: all 0.4s;
+position: relative;
+z-index: 1;
+vertical-align: middle;
+}
