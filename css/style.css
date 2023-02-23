@@ -150,11 +150,11 @@ padding-left: 100px;
     border-radius: 50px;
     border: 2px solid var(--color-primary);
     padding: 15px 40px;
-    font-size: 18px;
+    font-size: 17px;
     font-family: var(--font-cs-bold);
     font-weight: 700;
     line-height: 1.4;
-    margin-left: 90px;
+    margin-left: 100px;
     text-decoration: none;
     background-color: white;
 border-color: rgba(71, 59, 240, 0.1);
@@ -165,4 +165,161 @@ transition: all 0.4s;
 position: relative;
 z-index: 1;
 vertical-align: middle;
+}
+
+.myclick{
+background-color: #3377FF;
+border-color: var(--color-primary-4);
+display: inline-block;
+
+padding: 15px 50px;
+font-size: 17px;
+font-family: var(--font-cs-bold);
+font-weight: 700;
+line-height: 1.4;
+border: 2px solid var(--color-primary);
+border-radius: 50px;
+margin-left: 90px;
+text-decoration: none;
+}
+
+.mybild{
+    width: 650px;
+    height: 650px;
+}
+
+.myphoto{
+margin-left: 200px;
+
+
+overflow: hidden;
+border-radius: 7px 7px 0 0;
+}
+
+.mybanner{
+    font-size: 22px;
+letter-spacing: -1px;
+line-height: 1.4;
+font-family: var(--font-cs-bold);
+font-weight: 700;
+margin: 0px;
+padding: 0px;
+margin-left: 190px;
+}
+
+.mykugelschreiber{
+    font-size: 18px;
+    
+    line-height: 1.4;
+    margin-bottom: 15px;
+    margin-left: 195px;
+    font-weight:500 ;
+    color: #3377FF;
+
+}
+.myclock{
+    
+    border-color: var(--color-primary-4);
+    display: inline-block;
+    background-color: white;
+    padding: 15px 50px;
+    font-size: 17px;
+    font-family: var(--font-cs-bold);
+    font-weight: 700;
+    line-height: 1.4;
+    border: 2px solid var(--color-primary);
+    border-radius: 50px;
+    margin-left: 180px;
+    text-decoration: none;
+    color: black;
+}
+
+.myclock:hover{
+    color: white;
+    background-color: #3377FF;
+}
+
+.mypictuers{
+    margin-left: 100px;
+    overflow: hidden;
+border-radius: 7px 7px 0 0;
+}
+.mykugelschreiber2{
+    font-size: 18px;
+    
+    line-height: 1.4;
+    margin-bottom: 15px;
+    margin-left: 100px;
+    font-weight:500 ;
+    color: #3377FF;
+
+}
+
+.mybanner2{
+    font-size: 22px;
+    letter-spacing: -1px;
+    line-height: 1.4;
+    font-family: var(--font-cs-bold);
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 100px;
+}
+.myclock2{
+    border-color: var(--color-primary-4);
+    display: inline-block;
+    background-color: white;
+    padding: 15px 50px;
+    font-size: 17px;
+    font-family: var(--font-cs-bold);
+    font-weight: 700;
+    line-height: 1.4;
+    border: 2px solid var(--color-primary);
+    border-radius: 50px;
+    margin-left: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.mypictuers2{
+    
+    overflow: hidden;
+border-radius: 7px 7px 0 0;
+}
+.mykugelschreiber3{
+    font-size: 18px;
+    
+    line-height: 1.4;
+    margin-bottom: 15px;
+    
+    font-weight:500 ;
+    color: #3377FF;
+
+}
+
+.mybanner3{
+    font-size: 22px;
+    letter-spacing: -1px;
+    line-height: 1.4;
+    font-family: var(--font-cs-bold);
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.myclock3{
+    border-color: var(--color-primary-4);
+    display: inline-block;
+    background-color: white;
+    padding: 15px 50px;
+    font-size: 17px;
+    font-family: var(--font-cs-bold);
+    font-weight: 700;
+    line-height: 1.4;
+    border: 2px solid var(--color-primary);
+    border-radius: 50px;
+    
+    text-decoration: none;
+    color: black;
+
 }
